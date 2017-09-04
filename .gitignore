@@ -14,6 +14,7 @@ case_study- Quiz 11 - solution.ipynb
 example.osm.xml
 nodes.csv
 nodes_tags.csv
+schema.py
 ways.csv
 ways_nodes.csv
 ways_tags.csv
@@ -22,3 +23,10 @@ CleaningStreetNames.ipynb
 project_db.db
 delhi.db
 debug.log
+
+
+
+
+Final_code.ipynb
+GetSample_OSM.ipynb
+csvs_to_database.ipynb
