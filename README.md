@@ -15,7 +15,7 @@ This repository consists of the following files :
 
 - __1.Project_report.md__ : This is the final report of the work done on this project.
 
- __2.Final_code.ipynb__ : This file contains the codes for gathering and extracting the data from the OSM file. The data is then cleaned 
+- __2.Final_code.ipynb__ : This file contains the codes for gathering and extracting the data from the OSM file. The data is then cleaned 
 as per the programmer's requirements. Also the cleaned data is stored in CSV files.
 
 - __2.csvs_to_database.ipynb__ : Using the code in this file, each of the CSV files is exported as tables to be stored in a database. Using 
