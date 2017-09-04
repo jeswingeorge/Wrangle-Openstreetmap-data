@@ -3,7 +3,7 @@
 1_Data cleaning 2.ipynb
 .ipynb_checkpoints
 new-delhi_india.osm
-sample_delhi.osm
+sample_delhi2.osm
 schema.pyc
 Data_delhi.ipynb
 Improving Street Names.ipynb
@@ -14,9 +14,11 @@ case_study- Quiz 11 - solution.ipynb
 example.osm.xml
 nodes.csv
 nodes_tags.csv
-schema.py
 ways.csv
 ways_nodes.csv
 ways_tags.csv
 example.osm
 CleaningStreetNames.ipynb
+project_db.db
+delhi.db
+debug.log
