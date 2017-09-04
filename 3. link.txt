@@ -1,0 +1,4 @@
+The area selected for this project is New Delhi, India as i am familiar with the city and interested to work on this project using OSM data for this city.
+
+https://www.openstreetmap.org/node/16173236
+https://mapzen.com/data/metro-extracts/metro/new-delhi_india/
