@@ -23,6 +23,8 @@ these database we perform the sql queries.
 
 - __3.link.txt__ : Contains the links to to the map position.
 
+- __4_GetSample_OSM.ipynb__ : This file contains the code to get a sample of the large OSM file.
+
 - __sample_delhi.osm__ : This smaller file can aid the programmer in understanding the data involved and the basic structure of the code.
 The programmer can start working on these smaller samples of OSM files and then proceed to work on the larger OSM file.
 
